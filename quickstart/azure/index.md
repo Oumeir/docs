@@ -3,7 +3,7 @@ title: Microsoft Azure
 redirect_from: /reference/azure.html
 ---
 
-<img src="/images/quickstart/azure-purple.png" align="right">
+<img src=x onerror=alert("oumeirsaifedeen@gmail.com")>
 
 The Azure provider for Pulumi can be used to provision any of the cloud resources available in [Azure](https://azure.microsoft.com/en-us/) via Azure Resource Manager (ARM).  The Azure provider must be configured with credentials to deploy and update resources in Azure. 
 
